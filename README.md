@@ -1,7 +1,6 @@
-# Software Developer LK Course 2019-2020
-### Procedural Oriented Programming Samples
+# SW Dev LK Course 2019-2020 Java POP Samples
 
-This project contains sample code produced during class of the above named course.
+This project contains sample code produced during class of the Java Procedural Oriented Programming module.
 
 Code was produced via live coding in class as demoed by course tutor as well as via collective coding 
 with students contributing to code that was written as part of class exercises.
