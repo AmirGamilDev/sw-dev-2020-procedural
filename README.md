@@ -1,5 +1,5 @@
 # Software Developer LK Course 2019-2020
-# Procedural Oriented Programming Samples
+### Procedural Oriented Programming Samples
 
 This project contains sample code produced during class of the above named course.
 
