@@ -1,0 +1,5 @@
+Burger	3.0
+French fries	2.0
+Soup	2.5
+Chips	1.5
+Soda	1.0
